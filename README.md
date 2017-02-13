@@ -7,6 +7,12 @@ If you want to just download one exam copy the code [For example "pau_grec16jl" 
 #How to download the .jar
 Just click [Here] (https://github.com/MinZe25/Selecat/releases/download/0.1/Selecat.jar) or go to release
 #FAQ
-Q:Do I need Java?
+__Q: Do I need Java?__
 
 A:Yes
+
+__Q: Why Java?__
+
+~~A:because it's easier~~
+
+A: Because this way Mac, Windows and Linux users can use it
