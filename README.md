@@ -12,7 +12,4 @@ __Q: Do I need Java?__
 A:Yes
 
 __Q: Why Java?__
-
-~~A:because it's easier~~
-
 A: Because this way Mac, Windows and Linux users can use it
