@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Selecat:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Selecat_jar</output-path>
-    <root id="archive" name="Selecat.jar">
-      <element id="module-output" name="Selecat" />
-    </root>
-  </artifact>
-</component>
